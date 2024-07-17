@@ -52,7 +52,3 @@ python Drive.py model.h5
 ```
 
 Make sure the simulator is running and configured to the correct mode (e.g., autonomous mode) to receive the control commands from the script.
-
-## Acknowledgements
-
-This project was inspired by the behavioral cloning project from the Udacity Self-Driving Car Nanodegree program.
